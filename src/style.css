@@ -1,0 +1,7 @@
+@tailwind preflight;
+@tailwind components;
+@tailwind utilities;
+
+.app {
+  @apply p-4 p-10 flex justify-center;
+}
